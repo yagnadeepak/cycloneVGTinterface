@@ -1,0 +1,20 @@
+Fitter Status : Successful - Wed Jul 17 00:40:54 2024
+Quartus Prime Version : 22.1std.2 Build 922 07/20/2023 SC Lite Edition
+Revision Name : FPGA_Top_Level
+Top-level Entity Name : FPGA_Top_Level
+Family : Cyclone V
+Device : 5CGTFD9E5F35C7
+Timing Models : Final
+Logic utilization (in ALMs) : 52 / 113,560 ( < 1 % )
+Total registers : 199
+Total pins : 52 / 616 ( 8 % )
+Total virtual pins : 0
+Total block memory bits : 7,168 / 12,492,800 ( < 1 % )
+Total RAM Blocks : 1 / 1,220 ( < 1 % )
+Total DSP Blocks : 0 / 342 ( 0 % )
+Total HSSI RX PCSs : 0 / 12 ( 0 % )
+Total HSSI PMA RX Deserializers : 0 / 12 ( 0 % )
+Total HSSI TX PCSs : 0 / 12 ( 0 % )
+Total HSSI PMA TX Serializers : 0 / 12 ( 0 % )
+Total PLLs : 2 / 20 ( 10 % )
+Total DLLs : 0 / 4 ( 0 % )
